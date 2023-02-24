@@ -1,0 +1,5 @@
+com\masai\controller\StudentUIController$1.class
+com\masai\repository\StudentRepository.class
+com\masai\model\Student.class
+com\masai\controller\StudentUIController.class
+com\masai\StudentsReportingSystem.class
